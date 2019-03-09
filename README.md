@@ -1,11 +1,13 @@
 # Main
-Free PSD Template - [Restaurant](https://kadonomaro.github.io/Restaurant/)
+Free PSD template - [Restaurant](https://kadonomaro.github.io/Restaurant/)
 
-Free PSD Template - [Black&White](https://kadonomaro.github.io/blackandwhite/)
+Free PSD template - [Black&White](https://kadonomaro.github.io/blackandwhite/)
+
+Free PSD eCommerce template - [Kenekata](https://kadonomaro.github.io/kenakata/)
 
 Template from [E.Rodionov's](https://erodionov.ru/) courses - [UberEats](https://kadonomaro.github.io/uberats-demo-frontend/)
 
-Free PSD Template - [Crios](https://kadonomaro.github.io/Crios/)
+Free PSD template - [Crios](https://kadonomaro.github.io/Crios/)
 
 Site about my city - [Barnaul](https://kadonomaro.github.io/Barnaul-site/)
 
