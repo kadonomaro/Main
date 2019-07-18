@@ -1,4 +1,6 @@
 # Main
+Site about handmade soap with own design and development - [Handmade-soap](https://handmade-soap.ru/)
+
 Simple card game - [Wild Cards](https://kadonomaro.github.io/wild-cards/)
 
 [Unvab](http://unvab.com/#home) PSD template - [Snow](https://kadonomaro.github.io/Snow/)
