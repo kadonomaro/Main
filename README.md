@@ -2,6 +2,9 @@
 [Handmade-soap](https://handmade-soap.ru/) — Site about handmade soap with own design and development  
 (source: [https://github.com/kadonomaro/handmade-soap](https://github.com/kadonomaro/handmade-soap))
 
+[Blitz](https://kadonomaro.github.io/blitz/) – Free Figma template  
+(source: [https://github.com/kadonomaro/blitz](https://github.com/kadonomaro/blitz))
+
 [Wild Cards](https://kadonomaro.github.io/wild-cards/) — Simple card game  
 (source: [https://github.com/kadonomaro/wild-cards](https://github.com/kadonomaro/wild-cards))
 
