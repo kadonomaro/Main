@@ -1,4 +1,7 @@
 # Links to published repositories
+[Photo Finder](https://kadonomaro.github.io/photo-finder/) - First Vue.js project (in progress)  
+(source: [https://github.com/kadonomaro/photo-finder](https://github.com/kadonomaro/photo-finder))
+
 [Handmade-soap](https://handmade-soap.ru/) — Site about handmade soap with own design and development  
 (source: [https://github.com/kadonomaro/handmade-soap](https://github.com/kadonomaro/handmade-soap))
 
