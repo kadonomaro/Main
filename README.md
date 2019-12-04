@@ -1,5 +1,9 @@
 # Links to published repositories
-[Photo Finder](https://kadonomaro.github.io/photo-finder/) - First Vue.js project (in progress)  
+
+[IndexWord](https://indexword.handmade-soap.ru/) - Vue.js project (small blog with self-written admin panel)  
+(source: [https://github.com/kadonomaro/index-word](https://github.com/kadonomaro/index-word))
+
+[Photo Finder](https://kadonomaro.github.io/photo-finder/) - Vue.js project (photos search using pixabay.com API)  
 (source: [https://github.com/kadonomaro/photo-finder](https://github.com/kadonomaro/photo-finder))
 
 [Handmade-soap](https://handmade-soap.ru/) — Site about handmade soap with own design and development  
