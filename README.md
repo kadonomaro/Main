@@ -1,5 +1,8 @@
 # Links to published repositories
 
+[**AddressBook**](https://address-book-2020.web.app/) - Vue.js project (address book with registration [test acc – login: **test@test.test**, password: **testtest**]) ...in progress  
+(source: [https://github.com/kadonomaro/address-book](https://github.com/kadonomaro/address-book))
+
 [**IndexWord**](https://indexword.handmade-soap.ru/) - Vue.js project (small blog with self-written admin panel) ...in progress  
 (source: [https://github.com/kadonomaro/index-word](https://github.com/kadonomaro/index-word))
 
