@@ -1,12 +1,13 @@
 # Links to published repositories
 
-[**AddressBook**](https://address-book-2020.web.app/) - Vue.js project (address book with registration [test acc – login: **test@test.test**, password: **testtest**]) ...in progress  
+![](https://img.icons8.com/color/32/000000/vue-js.png)[**AddressBook**](https://address-book-2020.web.app/) - Address book with registration  
+Test account – login: **test@test.test**, password: **testtest**
 (source: [https://github.com/kadonomaro/address-book](https://github.com/kadonomaro/address-book))
 
-[**IndexWord**](https://indexword.handmade-soap.ru/) - Vue.js project (small blog with self-written admin panel) ...in progress  
+![](https://img.icons8.com/color/32/000000/vue-js.png)[**IndexWord**](https://indexword.handmade-soap.ru/) - Vue.js project (small blog with self-written admin panel) ...in progress  
 (source: [https://github.com/kadonomaro/index-word](https://github.com/kadonomaro/index-word))
 
-[**Photo Finder**](https://kadonomaro.github.io/photo-finder/) - Vue.js project (photos search using pixabay.com API)  
+![](https://img.icons8.com/color/32/000000/vue-js.png)[**Photo Finder**](https://kadonomaro.github.io/photo-finder/) - Vue.js project (photos search using pixabay.com API)  
 (source: [https://github.com/kadonomaro/photo-finder](https://github.com/kadonomaro/photo-finder))
 
 [**Handmade-soap**](https://handmade-soap.ru/) — Site about handmade soap with own design and development  
