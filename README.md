@@ -16,13 +16,13 @@ Test account – login: **test@test.test**, password: **testtest**
 ![](https://img.icons8.com/color/32/000000/html-5.png)[**Blitz**](https://kadonomaro.github.io/blitz/) – Free Figma template  
 (source: [https://github.com/kadonomaro/blitz](https://github.com/kadonomaro/blitz))
 
-[**Wild Cards**](https://kadonomaro.github.io/wild-cards/) — Simple card game  
+![](https://handmade-soap.ru/templates/images/js_logo.png)[**Wild Cards**](https://kadonomaro.github.io/wild-cards/) — Simple card game  
 (source: [https://github.com/kadonomaro/wild-cards](https://github.com/kadonomaro/wild-cards))
 
 ![](https://img.icons8.com/color/32/000000/html-5.png)[**Snow**](https://kadonomaro.github.io/Snow/) — [Unvab](http://unvab.com/#home) PSD template  
 (source: [https://github.com/kadonomaro/Snow](https://github.com/kadonomaro/Snow))
 
-[**to-do App**](https://kadonomaro.github.io/todo-app/) — Simple to-do list application on native JavaScript  
+![](https://handmade-soap.ru/templates/images/js_logo.png)[**to-do App**](https://kadonomaro.github.io/todo-app/) — Simple to-do list application on vanilla JavaScript  
 (source: [https://github.com/kadonomaro/todo-app](https://github.com/kadonomaro/todo-app))
 
 ![](https://img.icons8.com/color/32/000000/html-5.png)[**Restaurant**](https://kadonomaro.github.io/Restaurant/) — Free PSD template  
