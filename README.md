@@ -1,5 +1,8 @@
 # Links to published repositories
 
+![](https://img.icons8.com/color/32/000000/html-5.png)[**Airsoftware**](https://airsoftware.ru.com/) - Website for fake IT company Airsoftware  
+(source: [https://github.com/kadonomaro/airsoftware](https://github.com/kadonomaro/airsoftware))
+
 ![](https://img.icons8.com/color/32/000000/vue-js.png)[**AddressBook**](https://address-book-2020.web.app/) - Address book with registration  
 Test account – login: **test@test.test**, password: **testtest**  
 (source: [https://github.com/kadonomaro/address-book](https://github.com/kadonomaro/address-book))
