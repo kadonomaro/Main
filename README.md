@@ -52,4 +52,7 @@ Test account – login: **test@test.test**, password: **testtest**
 ***
 **Commercial**  
 
-* [**СРОКонтакт**](http://xn--80atbkdblhoc.xn--p1ai/) – Figma to HTML
+* [**СРОКонтакт**](http://xn--80atbkdblhoc.xn--p1ai/) – Figma to HTML  
+* [**Академик**](http://www.akademik.help/) – Add new sections  
+* [**DLLA**](https://dlla.ru/index.php) – Main, category, product page add new sections / change old sections
+
