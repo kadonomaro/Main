@@ -54,5 +54,6 @@ Test account – login: **test@test.test**, password: **testtest**
 
 * [**СРОКонтакт**](http://xn--80atbkdblhoc.xn--p1ai/) – Figma to HTML  
 * [**Академик**](http://www.akademik.help/) – Add new sections  
+* [**Cosmobrands**](https://cosmobrands.online/opt) – Add new page   
 * [**DLLA**](https://dlla.ru/index.php) – Main, category, product page add new sections / change old sections
 
