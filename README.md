@@ -1,5 +1,8 @@
 # Links to published repositories
 
+![](https://img.icons8.com/color/48/000000/typescript.png)[**To Do List - 2020**](https://todo-list-2020-6c5c0.firebaseapp.com/) - To do list implementation based on typescript  
+(source: [https://github.com/kadonomaro/todo-list-2020](https://github.com/kadonomaro/todo-list-2020))
+
 ![](https://img.icons8.com/color/32/000000/html-5.png)[**Airsoftware**](https://airsoftware.ru.com/) - Website about fake IT company Airsoftware  
 (source: [https://github.com/kadonomaro/airsoftware](https://github.com/kadonomaro/airsoftware))
 
