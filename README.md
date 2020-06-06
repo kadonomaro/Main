@@ -41,7 +41,7 @@ Test account – login: **test@test.test**, password: **testtest**
 (source: [https://github.com/kadonomaro/kenakata](https://github.com/kadonomaro/kenakata))
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/uberats-demo-frontend/)[**UberEats**](https://kadonomaro.github.io/uberats-demo-frontend/) — Template from [E.Rodionov's](https://erodionov.ru/) courses  
-(source: [https://github.com/kadonomaro/blackandwhite](https://github.com/kadonomaro/blackandwhite))
+(source: [https://github.com/kadonomaro/uberats-demo-frontend](https://github.com/kadonomaro/uberats-demo-frontend))
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/Crios/)[**Crios**](https://kadonomaro.github.io/Crios/) — Free PSD template  
 (source: [https://github.com/kadonomaro/Crios](https://github.com/kadonomaro/Crios))
