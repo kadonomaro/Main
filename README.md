@@ -59,5 +59,6 @@ Test account – login: **test@test.test**, password: **testtest**
 * [**Академик**](http://www.akademik.help/) – Add new sections  
 * [**Cosmobrands**](https://cosmobrands.online/opt) – Add new page   
 * [**DLLA**](https://dlla.ru/index.php) – Main, category, product page add new sections / change old sections  
-* [**Выездной банкет**](https://viezdnoy-banket.ru/) – Google PageSpeed optimization
+* [**Выездной банкет**](https://viezdnoy-banket.ru/) – Google PageSpeed optimization  
+* [**GetGate**](https://getgate.ru/garantiya/) – Add guarantee page
 
