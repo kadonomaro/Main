@@ -31,7 +31,8 @@ Test account – login: **test@test.test**, password: **testtest**
 [![](https://handmade-soap.ru/templates/images/js_logo.png)](https://kadonomaro.github.io/todo-app/)[**to-do App**](https://kadonomaro.github.io/todo-app/) — Simple to-do list application on vanilla JavaScript  
 (source: [https://github.com/kadonomaro/todo-app](https://github.com/kadonomaro/todo-app))
 
-[![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/Restaurant/)[**Restaurant**](https://kadonomaro.github.io/Restaurant/) — Free PSD template  (source: [https://github.com/kadonomaro/Restaurant](https://github.com/kadonomaro/Restaurant))
+[![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/Restaurant/)[**Restaurant**](https://kadonomaro.github.io/Restaurant/) — Free PSD template    
+(source: [https://github.com/kadonomaro/Restaurant](https://github.com/kadonomaro/Restaurant))
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/codegenerator/)[**Code Generator**](https://kadonomaro.github.io/codegenerator/) — Small visual CSS code generator  
 (source: [https://github.com/kadonomaro/codegenerator](https://github.com/kadonomaro/codegenerator))
