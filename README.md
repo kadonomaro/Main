@@ -31,26 +31,10 @@ Test account – login: **test@test.test**, password: **testtest**
 [![](https://handmade-soap.ru/templates/images/js_logo.png)](https://kadonomaro.github.io/todo-app/)[**to-do App**](https://kadonomaro.github.io/todo-app/) — Simple to-do list application on vanilla JavaScript  
 (source: [https://github.com/kadonomaro/todo-app](https://github.com/kadonomaro/todo-app))
 
-[![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/Restaurant/)[**Restaurant**](https://kadonomaro.github.io/Restaurant/) — Free PSD template  
-(source: [https://github.com/kadonomaro/Restaurant](https://github.com/kadonomaro/Restaurant))
-
-[![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/blackandwhite/)[**Black&White**](https://kadonomaro.github.io/blackandwhite/) — Free PSD template  
-(source: [https://github.com/kadonomaro/blackandwhite](https://github.com/kadonomaro/blackandwhite))
-
-[![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/kenakata/)[**Kenekata**](https://kadonomaro.github.io/kenakata/) — Free PSD eCommerce template  
-(source: [https://github.com/kadonomaro/kenakata](https://github.com/kadonomaro/kenakata))
-
-[![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/uberats-demo-frontend/)[**UberEats**](https://kadonomaro.github.io/uberats-demo-frontend/) — Template from [E.Rodionov's](https://erodionov.ru/) courses  
-(source: [https://github.com/kadonomaro/uberats-demo-frontend](https://github.com/kadonomaro/uberats-demo-frontend))
-
-[![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/Crios/)[**Crios**](https://kadonomaro.github.io/Crios/) — Free PSD template  
-(source: [https://github.com/kadonomaro/Crios](https://github.com/kadonomaro/Crios))
+[![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/Restaurant/)[**Restaurant**](https://kadonomaro.github.io/Restaurant/) — Free PSD template  (source: [https://github.com/kadonomaro/Restaurant](https://github.com/kadonomaro/Restaurant))
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/codegenerator/)[**Code Generator**](https://kadonomaro.github.io/codegenerator/) — Small visual CSS code generator  
 (source: [https://github.com/kadonomaro/codegenerator](https://github.com/kadonomaro/codegenerator))
-
-[![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/Barnaul-site/)[**Barnaul**](https://kadonomaro.github.io/Barnaul-site/) — Site about my city  
-(source: [https://github.com/kadonomaro/Barnaul-site](https://github.com/kadonomaro/Barnaul-site))
 
 ***
 **Commercial**  
