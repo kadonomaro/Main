@@ -10,7 +10,7 @@
 Test account – login: **test@test.test**, password: **testtest**  
 (source: [https://github.com/kadonomaro/address-book](https://github.com/kadonomaro/address-book))
 
-[![](https://img.icons8.com/color/32/000000/vue-js.png)](https://indexword.handmade-soap.ru/)[**IndexWord**](https://indexword.handmade-soap.ru/) - Small blog with simple admin panel  
+[![](https://img.icons8.com/color/32/000000/vue-js.png)](https://indexword.handmade-soap.ru/)[**IndexWord**](https://index-word.web.app/) - Small blog with simple admin panel  
 (source: [https://github.com/kadonomaro/index-word](https://github.com/kadonomaro/index-word))
 
 [![](https://img.icons8.com/color/32/000000/vue-js.png)](https://kadonomaro.github.io/photo-finder/)[**Photo Finder**](https://kadonomaro.github.io/photo-finder/) - Photos search using pixabay.com API  
