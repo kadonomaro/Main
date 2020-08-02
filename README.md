@@ -16,9 +16,9 @@ Test account – login: **test@test.test**, password: **testtest**
 [![](https://img.icons8.com/color/32/000000/vue-js.png)](https://kadonomaro.github.io/photo-finder/)[**Photo Finder**](https://kadonomaro.github.io/photo-finder/) - Photos search using pixabay.com API  
 (source: [https://github.com/kadonomaro/photo-finder](https://github.com/kadonomaro/photo-finder))
 
-[![](https://img.icons8.com/color/32/000000/html-5.png)](https://handmade-soap.ru/)[**Handmade-soap**](https://handmade-soap.ru/) — Site about handmade soap with own design and development  
+[![](https://img.icons8.com/color/32/000000/html-5.png)](https://handmade-soap.ru/)[**Handmade-soap**](https://handmade-soap.herokuapp.com/) — Site about handmade soap with own design and development (Heroku hosting, you need to wait a few seconds before first start)  
 (source: [https://github.com/kadonomaro/handmade-soap](https://github.com/kadonomaro/handmade-soap)) - base template with source files  
-(source: [https://github.com/kadonomaro/node-handmade-soap](https://github.com/kadonomaro/node-handmade-soap)) - Node.js server(Heroku, you need to wait a few seconds before first start)
+(source: [https://github.com/kadonomaro/node-handmade-soap](https://github.com/kadonomaro/node-handmade-soap)) - Node.js server
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/blitz/)[**Blitz**](https://kadonomaro.github.io/blitz/) – Free Figma template  
 (source: [https://github.com/kadonomaro/blitz](https://github.com/kadonomaro/blitz))
