@@ -1,7 +1,11 @@
 # Links to published repositories
 
-[![](https://img.icons8.com/color/48/000000/typescript.png)](https://todo-list-2020-6c5c0.firebaseapp.com/)[**To Do List - 2020**](https://todo-list-2020-6c5c0.firebaseapp.com/) - To do list implementation based on typescript  
+[![](https://img.icons8.com/color/48/000000/typescript.png)](https://todo-list-2020-6c5c0.firebaseapp.com/)[**Todo list - 2020**](https://todo-list-2020-6c5c0.firebaseapp.com/) - To do list implementation based on typescript  
 (source: [https://github.com/kadonomaro/todo-list-2020](https://github.com/kadonomaro/todo-list-2020))  
+
+[![](https://img.icons8.com/color/48/000000/nodejs.png)](https://node-todo-list-api.herokuapp.com/api/items)[**Todo list API**](https://node-todo-list-api.herokuapp.com/api/items) - Simple Todo list API based on Node.js and MongoDB  
+(Heroku hosting, you need to wait a few seconds before first start)  
+(source: [https://github.com/kadonomaro/node-todolist-api](https://github.com/kadonomaro/node-todolist-api))  
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://airsoftware.ru.com/)[**Airsoftware**](https://airsoftware.ru.com/) - Website about fake IT company Airsoftware  
 (source: [https://github.com/kadonomaro/airsoftware](https://github.com/kadonomaro/airsoftware))
@@ -16,7 +20,8 @@ Test account – login: **test@test.test**, password: **testtest**
 [![](https://img.icons8.com/color/32/000000/vue-js.png)](https://kadonomaro.github.io/photo-finder/)[**Photo Finder**](https://kadonomaro.github.io/photo-finder/) - Photos search using pixabay.com API  
 (source: [https://github.com/kadonomaro/photo-finder](https://github.com/kadonomaro/photo-finder))
 
-[![](https://img.icons8.com/color/32/000000/html-5.png)](https://handmade-soap.ru/)[**Handmade-soap**](https://handmade-soap.herokuapp.com/) — Site about handmade soap with own design and development (Heroku hosting, you need to wait a few seconds before first start)  
+[![](https://img.icons8.com/color/32/000000/html-5.png)](https://handmade-soap.herokuapp.com/)[**Handmade-soap**](https://handmade-soap.herokuapp.com/) — Site about handmade soap with own design and development  
+(Heroku hosting, you need to wait a few seconds before first start)  
 (source: [https://github.com/kadonomaro/handmade-soap](https://github.com/kadonomaro/handmade-soap)) - base template with source files  
 (source: [https://github.com/kadonomaro/node-handmade-soap](https://github.com/kadonomaro/node-handmade-soap)) - Node.js server
 
