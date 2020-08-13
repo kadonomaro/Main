@@ -46,6 +46,7 @@ Test account – login: **test@test.test**, password: **testtest**
 ***
 **Commercial**  
 
+* [**Ротор**](https://rotor.airsoftware.ru.com/) – PSD to HTML (only desktop)  
 * [**СРОКонтакт**](http://xn--80atbkdblhoc.xn--p1ai/) – Figma to HTML  
 * [**Академик**](http://www.akademik.help/) – Add new sections  
 * [**Cosmobrands**](https://cosmobrands.online/opt) – Add new page   
