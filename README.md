@@ -44,6 +44,11 @@ Test account – login: **test@test.test**, password: **testtest**
 (source: [https://github.com/kadonomaro/codegenerator](https://github.com/kadonomaro/codegenerator))
 
 ***
+**Test tasks**  
+* [**Customers form**](https://kadonomaro.github.io/vue-customers-form/) – Vue.js customers form with Vuelidate validation library  
+* [**Simon Says**](https://kadonomaro.github.io/vue-simon-says/) – Implementation Simon Says game based on Vue.js  
+
+***
 **Commercial**  
 
 * [**Ротор**](https://rotor.airsoftware.ru.com/) – PSD to HTML (only desktop)  
