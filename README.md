@@ -45,8 +45,8 @@ Test account – login: **test@test.test**, password: **testtest**
 
 ***
 **Test tasks**  
-* [**Customers form**](https://kadonomaro.github.io/vue-customers-form/) – Vue.js customers form with Vuelidate validation library  
-* [**Simon Says**](https://kadonomaro.github.io/vue-simon-says/) – Implementation Simon Says game based on Vue.js  
+* [**Customers form**](https://kadonomaro.github.io/vue-customers-form/) ([source](https://github.com/kadonomaro/vue-customers-form)) – Vue.js customers form with Vuelidate validation library  
+* [**Simon Says**](https://kadonomaro.github.io/vue-simon-says/) ([source](https://github.com/kadonomaro/vue-simon-says)) – Implementation of Simon Says game based on Vue.js  
 
 ***
 **Commercial**  
