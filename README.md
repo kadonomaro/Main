@@ -1,6 +1,6 @@
 # Links to published repositories
 
-[![](https://img.icons8.com/color/32/000000/vue-js.png)](https://airganizer.web.app/)[**Airganizer**](https://airganizer.web.app/) - Calendar, adding tasks for the day  
+[![](https://img.icons8.com/color/32/000000/vue-js.png)](https://airganizer-app.web.app/)[**Airganizer**](https://airganizer-app.web.app/) - Calendar, adding tasks for the day  
 (source: [https://github.com/kadonomaro/airganizer](https://github.com/kadonomaro/airganizer))
 
 [![](https://img.icons8.com/color/48/000000/typescript.png)](https://todo-list-2020-6c5c0.firebaseapp.com/)[**Todo list - 2020**](https://todo-list-2020-6c5c0.firebaseapp.com/) - To do list implementation based on typescript  
