@@ -1,5 +1,8 @@
 # Links to published repositories
 
+[![](https://img.icons8.com/color/32/000000/vue-js.png)](https://filmsovet.web.app/)[**Filmsovet**](https://filmsovet.web.app/) - List of interesting films  
+(source: [https://github.com/kadonomaro/filmsovet](https://github.com/kadonomaro/filmsovet))
+
 [![](https://img.icons8.com/color/32/000000/vue-js.png)](https://airganizer.web.app/)[**Airganizer**](https://airganizer.web.app/) - This is a simple application for recording tasks, appointments and events  
 (source: [https://github.com/kadonomaro/airganizer](https://github.com/kadonomaro/airganizer))
 
