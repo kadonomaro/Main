@@ -2,19 +2,17 @@
 
 [![](https://img.icons8.com/color/32/000000/vue-js.png)](https://filmsovet.web.app/)[**Filmsovet**](https://filmsovet.web.app/) - List of interesting films ([source](https://github.com/kadonomaro/filmsovet))
 
-[![](https://img.icons8.com/color/32/000000/vue-js.png)](https://airganizer.web.app/)[**Airganizer**](https://airganizer.web.app/) - This is a simple application for recording tasks, appointments and events [source](https://github.com/kadonomaro/airganizer))
+[![](https://img.icons8.com/color/32/000000/vue-js.png)](https://airganizer.web.app/)[**Airganizer**](https://airganizer.web.app/) - This is a simple application for recording tasks, appointments and events ([source](https://github.com/kadonomaro/airganizer))
 
 [![](https://img.icons8.com/color/48/000000/typescript.png)](https://todo-list-2020-6c5c0.firebaseapp.com/)[**Todo list - 2020**](https://todo-list-2020-6c5c0.firebaseapp.com/) - To do list implementation based on typescript ([source](https://github.com/kadonomaro/todo-list-2020))
 
 [![](https://img.icons8.com/color/48/000000/nodejs.png)](https://node-todo-list-api.herokuapp.com/api/items)[**Todo list API**](https://node-todo-list-api.herokuapp.com/api/items) - Simple Todo list API based on Node.js and MongoDB  
-(Heroku hosting, you need to wait a few seconds before first start)  
-([source](https://github.com/kadonomaro/node-todolist-api))  
+(Heroku hosting, you need to wait a few seconds before first start, [source](https://github.com/kadonomaro/node-todolist-api))  
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://airsoftware.ru.com/)[**Airsoftware**](https://airsoftware.ru.com/) - Website about fake IT company Airsoftware ([source](https://github.com/kadonomaro/airsoftware))
 
-[![](https://img.icons8.com/color/32/000000/vue-js.png)](https://address-book-2020.web.app/)[**AddressBook**](https://address-book-2020.web.app/) - Address book with authorization  
-Test account – login: **test@test.test**, password: **testtest**  
-([source](https://github.com/kadonomaro/address-book))
+[![](https://img.icons8.com/color/32/000000/vue-js.png)](https://address-book-2020.web.app/)[**AddressBook**](https://address-book-2020.web.app/) - Address book with authorization ([source](https://github.com/kadonomaro/address-book))  
+Test account – login: **test@test.test**, password: **testtest** 
 
 [![](https://img.icons8.com/color/32/000000/vue-js.png)](https://index-word.web.app/)[**IndexWord**](https://index-word.web.app/) - Small blog with simple admin panel ([source](https://github.com/kadonomaro/index-word))
 
@@ -37,8 +35,8 @@ Test account – login: **test@test.test**, password: **testtest**
 
 ***
 **Test tasks**  
-* [**Customers form**](https://kadonomaro.github.io/vue-customers-form/) ([source](https://github.com/kadonomaro/vue-customers-form)) – Vue.js customers form with Vuelidate validation library  
-* [**Simon Says**](https://kadonomaro.github.io/vue-simon-says/) ([source](https://github.com/kadonomaro/vue-simon-says)) – Implementation of Simon Says game based on Vue.js  
+* [**Customers form**](https://kadonomaro.github.io/vue-customers-form/) – Vue.js customers form with Vuelidate validation library ([source](https://github.com/kadonomaro/vue-customers-form))
+* [**Simon Says**](https://kadonomaro.github.io/vue-simon-says/) – Implementation of Simon Says game based on Vue.js ([source](https://github.com/kadonomaro/vue-simon-says))
 
 ***
 **Commercial**  
