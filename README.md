@@ -34,11 +34,6 @@ Test account – login: **test@test.test**, password: **testtest**
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/codegenerator/)[**Code Generator**](https://kadonomaro.github.io/codegenerator/) — Small visual CSS code generator ([source](https://github.com/kadonomaro/codegenerator))
 
 ***
-**Test tasks**  
-* [**Customers form**](https://kadonomaro.github.io/vue-customers-form/) – Vue.js customers form with Vuelidate validation library ([source](https://github.com/kadonomaro/vue-customers-form))
-* [**Simon Says**](https://kadonomaro.github.io/vue-simon-says/) – Implementation of Simon Says game based on Vue.js ([source](https://github.com/kadonomaro/vue-simon-says))
-
-***
 **Commercial**  
 * **Ворота Hormann** – some sections besides «Popular solutions» ([page №1](http://cm50840.tmweb.ru/vorota/), [page №2](http://cm50840.tmweb.ru/vorota/promyshlennye-vorota/promyshlennye_hormann/))  
 * [**Ротор**](https://rotor.airsoftware.ru.com/) – PSD to HTML (only desktop)  
