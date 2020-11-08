@@ -23,11 +23,11 @@ Test account – login: **test@test.test**, password: **testtest**
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/blitz/)[**Blitz**](https://kadonomaro.github.io/blitz/) – Free Figma template ([source](https://github.com/kadonomaro/blitz))
 
-[![](https://handmade-soap.ru/templates/images/js_logo.png)](https://kadonomaro.github.io/wild-cards/)[**Wild Cards**](https://kadonomaro.github.io/wild-cards/) — Simple card game ([source](https://github.com/kadonomaro/wild-cards))
+[![](https://img.icons8.com/color/32/000000/javascript-logo-1.png)](https://kadonomaro.github.io/wild-cards/)[**Wild Cards**](https://kadonomaro.github.io/wild-cards/) — Simple card game ([source](https://github.com/kadonomaro/wild-cards))
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/Snow/)[**Snow**](https://kadonomaro.github.io/Snow/) — [Unvab](http://unvab.com/#home) PSD template ([source](https://github.com/kadonomaro/Snow))
 
-[![](https://handmade-soap.ru/templates/images/js_logo.png)](https://kadonomaro.github.io/todo-app/)[**to-do App**](https://kadonomaro.github.io/todo-app/) — Simple to-do list application on vanilla JavaScript ([source](https://github.com/kadonomaro/todo-app))
+[![](https://img.icons8.com/color/32/000000/javascript-logo-1.png)](https://kadonomaro.github.io/todo-app/)[**to-do App**](https://kadonomaro.github.io/todo-app/) — Simple to-do list application on vanilla JavaScript ([source](https://github.com/kadonomaro/todo-app))
 
 [![](https://img.icons8.com/color/32/000000/html-5.png)](https://kadonomaro.github.io/Restaurant/)[**Restaurant**](https://kadonomaro.github.io/Restaurant/) — Free PSD template ([source](https://github.com/kadonomaro/Restaurant))
 
