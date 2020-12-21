@@ -35,7 +35,7 @@ Test account – login: **test@test.test**, password: **testtest**
 
 ***
 **Commercial**  
-* **Ворота Hormann** – some sections besides «Popular solutions» ([page №1](http://cm50840.tmweb.ru/vorota/), [page №2](http://cm50840.tmweb.ru/vorota/promyshlennye-vorota/promyshlennye_hormann/))  
+* **Ворота Hormann** – some sections besides «Popular solutions» ([page №1](https://homann.ru/vorota/), [page №2](https://homann.ru/vorota/promyshlennye-vorota/promyshlennye_hormann/))  
 * [**Ротор**](https://rotor.airsoftware.ru.com/) – PSD to HTML (only desktop)  
 * [**СРОКонтакт**](http://xn--80atbkdblhoc.xn--p1ai/) – Figma to HTML  
 * [**Академик**](http://www.akademik.help/) – Add new sections  
