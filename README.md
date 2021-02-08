@@ -35,13 +35,14 @@ Test account – login: **test@test.test**, password: **testtest**
 
 ***
 **Commercial**  
+* [**Picooc comparison**](https://picooc.ru/comparison/) – Weights comparison functionality  
 * [**Picooc X1 Pro**](https://picooc.ru/bpm/) – «Picooc X1 Pro» page  
-* **Ворота Hormann** – some sections besides «Popular solutions» ([page №1](https://homann.ru/vorota/), [page №2](https://homann.ru/vorota/promyshlennye-vorota/promyshlennye_hormann/))  
+* **Ворота Hormann** – some sections besides «Popular solutions» ([page №1](https://homann.ru/vorota/), [page №2](https://homann.ru/promyshlennye-vorota/promyshlennye_sektsionnye_vorota/))  
 * [**Ротор**](https://rotor.airsoftware.ru.com/) – PSD to HTML (only desktop)  
 * [**СРОКонтакт**](http://xn--80atbkdblhoc.xn--p1ai/) – Figma to HTML  
 * [**Академик**](http://www.akademik.help/) – Add new sections  
 * [**Cosmobrands**](https://cosmobrands.online/opt) – Add new page   
 * [**DLLA**](https://dlla.ru/index.php) – Main, category, product page add new sections / change old sections  
 * [**Выездной банкет**](https://viezdnoy-banket.ru/) – Google PageSpeed optimization  
-* [**GetGate**](https://getgate.ru/garantiya/) – Add guarantee page
+* [**GetGate**](https://getgate.ru/garantiya/) – Guarantee page
 
