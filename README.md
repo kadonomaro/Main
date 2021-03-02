@@ -35,6 +35,7 @@ Test account – login: **test@test.test**, password: **testtest**
 
 ***
 **Commercial**  
+* [**Xd-design Brand history**](https://xd-design.ru/about) – Page about xd-design brand history  
 * [**Picooc comparison**](https://picooc.ru/comparison/) – Weights comparison functionality  
 * [**Picooc X1 Pro**](https://picooc.ru/bpm/) – «Picooc X1 Pro» page  
 * **Ворота Hormann** – some sections besides «Popular solutions» ([page №1](https://homann.ru/vorota/), [page №2](https://homann.ru/promyshlennye-vorota/promyshlennye_sektsionnye_vorota/))  
