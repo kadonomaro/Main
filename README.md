@@ -37,6 +37,7 @@ Test account – login: **test@test.test**, password: **testtest**
 
 ***
 **Commercial**  
+* [**Miku**](https://miku-russia.ru/) – Vue SSR website    
 * [**Madrobots**](https://madrobots.ru/) – Personal user profile    
 * [**XD Design**](https://xd-design.ru/) – Some pages of the website ([Brand history](https://xd-design.ru/about), [Our stores](https://xd-design.ru/p-o-magazine))  
 * [**Picooc**](https://picooc.ru) – Some pages of the website ([Smart scales](https://picooc.ru/smart), [BPM](https://picooc.ru/bpm), [FAQ](https://picooc.ru/faq), [Application](https://picooc.ru/application))  
@@ -48,4 +49,3 @@ Test account – login: **test@test.test**, password: **testtest**
 * [**DLLA**](https://dlla.ru/index.php) – Main, category, product page add new sections / change old sections  
 * [**Выездной банкет**](https://viezdnoy-banket.ru/) – Google PageSpeed optimization  
 * [**GetGate**](https://getgate.ru/garantiya/) – Guarantee page
-
