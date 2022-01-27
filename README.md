@@ -45,8 +45,6 @@ Test account – login: **test@test.test**, password: **testtest**
 * [**Madrobots**](https://madrobots.ru/) – Personal user profile    
 * [**XD Design**](https://xd-design.ru/) – Some pages of the website ([Brand history](https://xd-design.ru/about), [Our stores](https://xd-design.ru/p-o-magazine))  
 * [**Picooc**](https://picooc.ru) – Some pages of the website ([Smart scales](https://picooc.ru/smart), [BPM](https://picooc.ru/bpm), [FAQ](https://picooc.ru/faq), [Application](https://picooc.ru/application))  
-* **Ворота Hormann** – some sections besides «Popular solutions» ([page №1](https://homann.ru/vorota/), [page №2](https://homann.ru/promyshlennye-vorota/promyshlennye_sektsionnye_vorota/))  
-* [**Ротор**](https://rotor.airsoftware.ru.com/) – PSD to HTML (only desktop)  
 * [**СРОКонтакт**](http://xn--80atbkdblhoc.xn--p1ai/) – Figma to HTML  
 * [**Академик**](http://www.akademik.help/) – Add new sections  
 * [**Cosmobrands**](https://cosmobrands.online/opt) – Add new page   
