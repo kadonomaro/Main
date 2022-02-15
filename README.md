@@ -38,8 +38,9 @@ Test account – login: **test@test.test**, password: **testtest**
 ***
 **Commercial**  
 * [**Miku**](https://miku-russia.ru/) – Vue SSR website    
-* [**Bivan**](https://bivan.ru/) – Vue SSR website (legacy to Vue)    
+* [**Халатенце**](https://халатенце.рф/) – Vue SSR website (legacy to Vue)    
 * [**Zavtra**](https://zavtra.co/) – Vue SSR website (legacy to Vue)    
+* [**Bivan**](https://bivan.ru/) – Vue SSR website (legacy to Vue)    
 * [**Allugears**](https://allugears.ru/) – Vue SSR website (legacy to Vue)    
 * [**Nanoleaf**](https://nanoleaf.ru.com/) – Vue SSR website (legacy to Vue)    
 * [**Madrobots**](https://madrobots.ru/) – Personal user profile    
