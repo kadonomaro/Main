@@ -40,6 +40,7 @@ Test account – login: **test@test.test**, password: **testtest**
 * [**iGarden**](https://igarden.store/) – Vue SSR website    
 * [**Ivideon**](https://ivideon-v.ru/) – Vue SSR website    
 * [**Miku**](https://miku-russia.ru/) – Vue SSR website    
+* [**XD Design Lookbook**](https://lookbook.xd-design.ru/) – Vue promo website    
 * [**Халатенце**](https://халатенце.рф/) – Vue SSR website (legacy to Vue)    
 * [**Zavtra**](https://zavtra.co/) – Vue SSR website (legacy to Vue)    
 * [**Bivan**](https://bivan.ru/) – Vue SSR website (legacy to Vue)    
