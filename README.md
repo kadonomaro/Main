@@ -1,6 +1,6 @@
 # Links to published repositories
 
-[![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)](https://nuxt-stretch-ceiling.web.app/) [**Stretch ceiling**](https://nuxt-stretch-ceiling.web.app/) - Static site about stretch ceiling ([source](https://github.com/kadonomaro/nuxt_stretch_ceiling))
+[![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png)](https://ceilings-moscow.web.app/) [**Ceilings Moscow**](https://ceilings-moscow.web.app/) - Static site about stretch ceiling ([source](https://github.com/kadonomaro/nuxt_stretch_ceiling))
 
 [![](https://img.icons8.com/color/32/000000/vue-js.png)](https://pro-context.web.app/)[**ProContext**](https://pro-context.web.app/) - Blog about contextual advertising ([source](https://github.com/kadonomaro/pro-context))
 
