@@ -39,20 +39,20 @@ Test account – login: **test@test.test**, password: **testtest**
 
 ***
 **Commercial**  
-* [**iGarden**](https://igarden.store/) – Vue SSR website    
-* [**Ivideon**](https://ivideon-v.ru/) – Vue SSR website    
-* [**Miku**](https://miku-russia.ru/) – Vue SSR website    
-* [**XD Design Lookbook**](https://lookbook.xd-design.ru/) – Vue promo website    
-* [**Халатенце**](https://халатенце.рф/) – Vue SSR website (legacy to Vue)    
-* [**Zavtra**](https://zavtra.co/) – Vue SSR website (legacy to Vue)    
-* [**Bivan**](https://bivan.ru/) – Vue SSR website (legacy to Vue)    
-* [**Allugears**](https://allugears.ru/) – Vue SSR website (legacy to Vue)    
-* [**Nanoleaf**](https://nanoleaf.ru.com/) – Vue SSR website (legacy to Vue)    
-* [**Madrobots**](https://madrobots.ru/) – Personal user profile    
-* [**XD Design**](https://xd-design.ru/) – Some pages of the website ([Brand history](https://xd-design.ru/about), [Our stores](https://xd-design.ru/p-o-magazine))  
-* [**Picooc**](https://picooc.ru) – Some pages of the website ([Smart scales](https://picooc.ru/smart), [BPM](https://picooc.ru/bpm), [FAQ](https://picooc.ru/faq), [Application](https://picooc.ru/application))  
-* [**СРОКонтакт**](http://xn--80atbkdblhoc.xn--p1ai/) – Figma to HTML  
-* [**Академик**](http://www.akademik.help/) – Add new sections  
-* [**Cosmobrands**](https://cosmobrands.online/opt) – Add new page   
-* [**DLLA**](https://dlla.ru/index.php) – Main, category, product page add new sections / change old sections  
-* [**GetGate**](https://getgate.ru/garantiya/) – Guarantee page
+[![](https://igarden.store/favicons/favicon-16x16.png)](https://igarden.store/) [**iGarden**](https://igarden.store/) – Vue SSR website    
+[![](https://ivideon-v.ru/favicons/favicon-16x16.png)](https://ivideon-v.ru/) [**Ivideon**](https://ivideon-v.ru/) – Vue SSR website    
+[![](https://miku-russia.ru/favicons/favicon-16x16.png)](https://miku-russia.ru/) [**Miku**](https://miku-russia.ru/) – Vue SSR website    
+[![](https://lookbook.xd-design.ru/favicons/favicon-16x16.png)](https://lookbook.xd-design.ru/) [**XD Design Lookbook**](https://lookbook.xd-design.ru/) – Vue promo website    
+[![](https://xn--80aapa1ao7aup.xn--p1ai/favicons/favicon-16x16.png)](https://халатенце.рф/) [**Халатенце**](https://халатенце.рф/) – Vue SSR website (legacy to Vue)   
+[![](https://zavtra.co/favicons/favicon-16x16.png)](https://zavtra.co/) [**Zavtra**](https://zavtra.co/) – Vue SSR website (legacy to Vue)    
+[![](https://bivan.ru/favicons/favicon-16x16.png)](https://bivan.ru/) [**Bivan**](https://bivan.ru/) – Vue SSR website (legacy to Vue)    
+[![](https://allugears.ru/favicons/favicon-16x16.png)](https://allugears.ru/) [**Allugears**](https://allugears.ru/) – Vue SSR website (legacy to Vue)    
+[![](https://nanoleaf.ru.com/favicons/favicon-16x16.png)](https://nanoleaf.ru.com/) [**Nanoleaf**](https://nanoleaf.ru.com/) – Vue SSR website (legacy to Vue)    
+[![](https://madrobots.ru/favicon-16x16.png)](https://madrobots.ru/) [**Madrobots**](https://madrobots.ru/) – Personal user profile    
+[![](https://xd-design.ru/favicons/favicon-16x16.png)](https://xd-design.ru/) [**XD Design**](https://xd-design.ru/) – Some pages of the website ([Brand history](https://xd-design.ru/about), [Our stores](https://xd-design.ru/p-o-magazine))  
+[![](https://picooc.ru/favicons/favicon-16x16.png)](https://picooc.ru/) [**Picooc**](https://picooc.ru) – Some pages of the website ([Smart scales](https://picooc.ru/smart), [BPM](https://picooc.ru/bpm), [FAQ](https://picooc.ru/faq), [Application](https://picooc.ru/application))  
+[**СРОКонтакт**](http://xn--80atbkdblhoc.xn--p1ai/) – Figma to HTML  
+[**Академик**](http://www.akademik.help/) – Add new sections  
+[**Cosmobrands**](https://cosmobrands.online/opt) – Add new page   
+[**DLLA**](https://dlla.ru/index.php) – Main, category, product page add new sections / change old sections  
+[**GetGate**](https://getgate.ru/garantiya/) – Guarantee page
