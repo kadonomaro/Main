@@ -62,7 +62,7 @@ Test account – login: **test@test.test**, password: **testtest**
 
 [![](https://xd-design.ru/favicons/favicon-16x16.png)](https://xd-design.ru/) [**XD Design**](https://xd-design.ru/) – Some pages of the website ([Brand history](https://xd-design.ru/about), [Our stores](https://xd-design.ru/p-o-magazine))  
 
-[![](https://picooc.ru/favicons/favicon-16x16.png)](https://picooc.ru/) [**Picooc**](https://picooc.ru) – Some pages of the website ([Smart scales](https://picooc.ru/smart), [BPM](https://picooc.ru/bpm), [FAQ](https://picooc.ru/faq), [Application](https://picooc.ru/application))  
+[![](https://picooc.ru/favicons/favicon-16x16.png)](https://picooc.ru/) [**Picooc**](https://picooc.ru) – Some pages of the website ([Smart scales](https://picooc.ru/smart), [BPM](https://picooc.ru/bpm), [FAQ](https://picooc.ru/faq), [Application](https://picooc.ru/application), [Massagers](https://picooc.ru/massagers))  
 
 ## SEO365
 
