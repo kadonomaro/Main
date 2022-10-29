@@ -72,6 +72,6 @@ Test account – login: **test@test.test**, password: **testtest**
 
 [**Cosmobrands**](https://cosmobrands.online/opt) – Add new page   
 
-[**DLLA**](https://dlla.ru/index.php) – Main, category, product page add new sections / change old sections  
+[**DLLA**](https://dlla.ru/) – Main, category, product page add new sections / change old sections  
 
 [**GetGate**](https://getgate.ru/garantiya/) – Guarantee page
