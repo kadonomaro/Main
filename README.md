@@ -38,6 +38,8 @@ Test account – login: **test@test.test**, password: **testtest**
 
 ***
 ## Madrobots  
+[![](https://madrobots.tech/favicons/favicon-16x16.png)](https://madrobots.tech/) [**Madrobots Tech**](https://madrobots.tech/) – Vue landing page  
+
 [![](https://martinelia.ru/favicons/favicon-16x16.png)](https://martinelia.ru/) [**Martinelia**](https://martinelia.ru/) – Vue SSR website  
 
 [![](https://igarden.store/favicons/favicon-16x16.png)](https://igarden.store/) [**iGarden**](https://igarden.store/) – Vue SSR website  
