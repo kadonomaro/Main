@@ -58,7 +58,7 @@ Test account – login: **test@test.test**, password: **testtest**
 
 [![](https://allugears.ru/favicons/favicon-16x16.png)](https://allugears.ru/) [**Allugears**](https://allugears.ru/) – Vue SSR website (legacy to Vue)  
 
-[![](https://nanoleaf.ru.com/favicons/favicon-16x16.png)](https://nanoleaf.ru.com/) [**Nanoleaf**](https://nanoleaf.ru.com/) – Vue SSR website (legacy to Vue)    
+[![](https://nanoleaf.ru/favicons/favicon-16x16.png)](https://nanoleaf.ru/) [**Nanoleaf**](https://nanoleaf.ru/) – Vue SSR website (legacy to Vue)    
 
 [![](https://madrobots.ru/favicon-16x16.png)](https://madrobots.ru/) [**Madrobots**](https://madrobots.ru/) – Personal user profile    
 
