@@ -1,5 +1,9 @@
 ## Madrobots  
+[![](https://madrobots.ru/favicons/favicon-16x16.png)](https://madrobots.ru/) [**Madrobots**](https://madrobots.ru/) – Vue SSR website (legacy to Vue)   
+
 [![](https://madrobots.tech/favicons/favicon-16x16.png)](https://madrobots.tech/) [**Madrobots Tech**](https://madrobots.tech/) – Vue landing page  
+
+[![](https://shop.ledger.com/favicons/ledger-favicon-shop_16x16.png)](https://ledgerwalletrussia.ru/) [**Ledger**](https://ledgerwalletrussia.ru/) – Vue SSR website  
 
 [![](https://martinelia.ru/favicons/favicon-16x16.png)](https://martinelia.ru/) [**Martinelia**](https://martinelia.ru/) – Vue SSR website  
 
@@ -19,9 +23,7 @@
 
 [![](https://allugears.ru/favicons/favicon-16x16.png)](https://allugears.ru/) [**Allugears**](https://allugears.ru/) – Vue SSR website (legacy to Vue)  
 
-[![](https://nanoleaf.ru/favicons/favicon-16x16.png)](https://nanoleaf.ru/) [**Nanoleaf**](https://nanoleaf.ru/) – Vue SSR website (legacy to Vue)    
-
-[![](https://madrobots.ru/favicon-16x16.png)](https://madrobots.ru/) [**Madrobots**](https://madrobots.ru/) – Personal user profile    
+[![](https://nanoleaf.ru/favicons/favicon-16x16.png)](https://nanoleaf.ru/) [**Nanoleaf**](https://nanoleaf.ru/) – Vue SSR website (legacy to Vue)     
 
 [![](https://xd-design.ru/favicons/favicon-16x16.png)](https://xd-design.ru/) [**XD Design**](https://xd-design.ru/) – Some pages of the website ([Brand history](https://xd-design.ru/about), [Our stores](https://xd-design.ru/p-o-magazine))  
 
