@@ -13,7 +13,7 @@
 
 [![](https://miku-russia.ru/favicons/favicon-16x16.png)](https://miku-russia.ru/) [**Miku**](https://miku-russia.ru/) – Vue SSR website    
 
-[![](https://lookbook.xd-design.ru/favicons/favicon-16x16.png)](https://lookbook.xd-design.ru/) [**XD Design Lookbook**](https://lookbook.xd-design.ru/) – Vue promo website  
+[![](https://xd-design.ru/favicons/favicon-16x16.png)](https://xd-design.ru/) [**XD Design**](https://xd-design.ru/) – Promo pages ([Lookbook](https://lookbook.xd-design.ru/) [About](https://xd-design.ru/about))  
 
 [![](https://xn--80aapa1ao7aup.xn--p1ai/favicons/favicon-16x16.png)](https://халатенце.рф/) [**Халатенце**](https://халатенце.рф/) – Vue SSR website (legacy to Vue)  
 
@@ -25,9 +25,7 @@
 
 [![](https://nanoleaf.ru/favicons/favicon-16x16.png)](https://nanoleaf.ru/) [**Nanoleaf**](https://nanoleaf.ru/) – Vue SSR website (legacy to Vue)     
 
-[![](https://xd-design.ru/favicons/favicon-16x16.png)](https://xd-design.ru/) [**XD Design**](https://xd-design.ru/) – Some pages of the website ([Brand history](https://xd-design.ru/about), [Our stores](https://xd-design.ru/p-o-magazine))  
-
-[![](https://picooc.ru/favicons/favicon-16x16.png)](https://picooc.ru/) [**Picooc**](https://picooc.ru) – Some pages of the website ([Smart scales](https://picooc.ru/smart), [BPM](https://picooc.ru/bpm), [FAQ](https://picooc.ru/faq), [Application](https://picooc.ru/application), [Massagers](https://picooc.ru/massagers))  
+[![](https://picooc.ru/favicons/favicon-16x16.png)](https://picooc.ru/) [**Picooc**](https://picooc.ru) – Some pages of the website ([Smart scales](https://picooc.ru/smart) [BPM](https://picooc.ru/bpm) [Application](https://picooc.ru/application) [Massagers](https://picooc.ru/massagers))  
 
 ## SEO365
 
